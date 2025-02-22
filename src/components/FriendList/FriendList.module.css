@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 50px;
+  padding: 0;
+}
+
+.items {
+  width: 100px;
+  padding-top: 20px;
+  border: 2px solid #7b68ee;
+  border-radius: 4px;
+}
